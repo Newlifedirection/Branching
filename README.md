@@ -17,3 +17,5 @@
 * 'git branch' - List branches, show current branch
 
 * 'git checkout branchName' - Make 'branchName' the current branch in working directory'
+
+* Need some more git Commands
