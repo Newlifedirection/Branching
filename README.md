@@ -2,6 +2,10 @@
 
 ### General 'git' Commands
 
+* 'git inti'
+
+* 'git add thing' - State 'thing'
+
 
 ### Branching Commands
 
