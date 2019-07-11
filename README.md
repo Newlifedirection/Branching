@@ -2,7 +2,7 @@
 
 ### Branching Commands
 
-*
+* 'git status'
 
 * 'git branch' - List branches, show current branch
 
