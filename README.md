@@ -3,7 +3,7 @@
 ### General 'git' Commands
 
 * 'git commit'
-* 'git added'
+* 'git add'
 ### Branching Commands
 
 * 'git status'
