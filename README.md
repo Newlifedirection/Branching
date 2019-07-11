@@ -18,6 +18,6 @@
 
 * 'git checkout branchName' - Make 'branchName' the current branch in working directory'
 
-* TODO - checkout -b change on master
+* 'git checkout -b branchName' - Create branch 'branchName ' and checkout
 
-* more stuff on master branches
+* TODO - checkout -b change on master
