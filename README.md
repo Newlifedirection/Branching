@@ -1,6 +1,11 @@
 ## Git Branching
 
+### General 'git' Commands
+
+
 ### Branching Commands
+
+* 'git status'
 
 * 'git branch' - List branches, show current branch
 
