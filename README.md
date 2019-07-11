@@ -18,4 +18,4 @@
 
 * 'git checkout branchName' - Make 'branchName' the current branch in working directory'
 
-* TODO - checkout -b 
+* 'git checkout -b branchName' - Create branch 'branchName ' and checkout
